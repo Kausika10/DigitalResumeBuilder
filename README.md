@@ -63,14 +63,10 @@ Digital-Resume-Builder/
 - Node.js & npm installed
 - MongoDB setup (local or cloud)
 
-### 1) Clone the repository
 
-```sh
-$ git clone https://github.com/Yadhavaramanan/Digital-Resume-Builder-using-MERN-Stack.git
-$ cd Digital-Resume-Builder
 ```
 
-### 2) Install dependencies
+### 1) Install dependencies
 
 #### Backend
 
@@ -86,7 +82,7 @@ $ cd ../resume-builder-frontend
 $ npm install
 ```
 
-### 3) Configure Environment Variables
+### 2) Configure Environment Variables
 
 Create a `.env` file in the `resume-builder-backend` folder and set the following variables:
 
@@ -96,7 +92,7 @@ JWT_SECRET=your_secret_key
 CLOUD_STORAGE_KEY=your_storage_key (if applicable)
 ```
 
-### 4) Run the project
+### 3) Run the project
 
 #### Start Backend Server
 
