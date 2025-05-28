@@ -55,14 +55,14 @@ $ cd resume-builder-backend
 $ npm start
 ```
 
-#### Start Frontend
+#### 4) Start Frontend
 
 ```sh
 $ cd ../resume-builder-frontend
 $ npm start
 ```
 
-### 4) Open in Browser
+### 5) Open in Browser
 
 ```
 http://localhost:3000
